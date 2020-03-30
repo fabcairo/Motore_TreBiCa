@@ -1,2 +1,2 @@
 # Motore_TreBiCa
-Una simulazione Java di un motore di ricerca
+Una simulazione Java di un motore di ricerca semplificato
